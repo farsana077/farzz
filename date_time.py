@@ -1,13 +1,13 @@
 
-# #Yearly Calendar Program
-# # yearly_calendar.py
+#Yearly Calendar Program
+# yearly_calendar.py
 
 
-# import calendar
+import calendar
 
-# year = int(input("Enter year: "))
-# print("\n📅 Calendar for the year", year)
-# print(calendar.calendar(year))
+year = int(input("Enter year: "))
+print("\n📅 Calendar for the year", year)
+print(calendar.calendar(year))
 
 
 
